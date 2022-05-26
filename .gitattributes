@@ -2,3 +2,4 @@
 *.js linguist-detectable=true
 *.html linguist-detectable=false
 *.toc linguist-detectable=false
+*.tex linguist-detectable=false
